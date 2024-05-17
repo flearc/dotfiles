@@ -1,0 +1,11 @@
+# Ignore everything in ~/.config
+/*
+
+# Not ignore
+# Files
+!/.gitignore
+
+# Folders
+!/.config/wezterm/
+
+
