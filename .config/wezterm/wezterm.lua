@@ -20,4 +20,7 @@ config.use_fancy_tab_bar = true
 config.show_new_tab_button_in_tab_bar = false
 config.tab_bar_at_bottom = true
 
+-- background transparent
+config.window_background_opacity = 0.8
+
 return config
